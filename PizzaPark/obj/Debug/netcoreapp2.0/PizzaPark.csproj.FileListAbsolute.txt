@@ -1,0 +1,11 @@
+c:\users\anubhutia\Source\Repos\PizzaPark\PizzaPark\bin\Debug\netcoreapp2.0\PizzaPark.deps.json
+c:\users\anubhutia\Source\Repos\PizzaPark\PizzaPark\bin\Debug\netcoreapp2.0\PizzaPark.runtimeconfig.json
+c:\users\anubhutia\Source\Repos\PizzaPark\PizzaPark\bin\Debug\netcoreapp2.0\PizzaPark.runtimeconfig.dev.json
+c:\users\anubhutia\Source\Repos\PizzaPark\PizzaPark\bin\Debug\netcoreapp2.0\PizzaPark.dll
+c:\users\anubhutia\Source\Repos\PizzaPark\PizzaPark\bin\Debug\netcoreapp2.0\PizzaPark.pdb
+c:\users\anubhutia\Source\Repos\PizzaPark\PizzaPark\obj\Debug\netcoreapp2.0\PizzaPark.csprojResolveAssemblyReference.cache
+c:\users\anubhutia\Source\Repos\PizzaPark\PizzaPark\obj\Debug\netcoreapp2.0\PizzaPark.csproj.CoreCompileInputs.cache
+c:\users\anubhutia\Source\Repos\PizzaPark\PizzaPark\obj\Debug\netcoreapp2.0\PizzaPark.AssemblyInfoInputs.cache
+c:\users\anubhutia\Source\Repos\PizzaPark\PizzaPark\obj\Debug\netcoreapp2.0\PizzaPark.AssemblyInfo.cs
+c:\users\anubhutia\Source\Repos\PizzaPark\PizzaPark\obj\Debug\netcoreapp2.0\PizzaPark.dll
+c:\users\anubhutia\Source\Repos\PizzaPark\PizzaPark\obj\Debug\netcoreapp2.0\PizzaPark.pdb
